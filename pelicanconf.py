@@ -7,7 +7,7 @@ SITENAME = 'network dev'
 SITEURL = ''
 
 PATH = 'content'
-THEME = 'themes/pelican-alchemy/alchemy''
+THEME = 'themes/pelican-alchemy/alchemy'
 
 TIMEZONE = 'US/Central'
 
