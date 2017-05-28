@@ -22,7 +22,7 @@ PLUGINS = [  # These plugins are part of the official `pelican-plugins` repo:
            'summary',
            'neighbors',
            # This one is a custom plugin:
-           # 'pdf',
+           'pdf',
            ]
 
 # Feed generation is usually not desired when developing
