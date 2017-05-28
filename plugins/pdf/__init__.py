@@ -5,7 +5,7 @@ import tempfile
 from pelican import signals
 
 # The pandoc command. The CV is saved in a static `pdfs/` subdirectory.
-CMD = ('pandoc {fn} -o content/pdfs/cv.pdf '
+CMD = ('pandoc {fn} -o content/pdf/cv.pdf '
        '-V geometry:margin=1in '
        '--template=template.tex')
 
