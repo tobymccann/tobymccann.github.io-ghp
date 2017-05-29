@@ -98,7 +98,7 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 publish:
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+	# $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	sudo bash docker_run.sh
 
 ssh_upload: publish

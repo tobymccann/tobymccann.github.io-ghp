@@ -61,8 +61,8 @@
       <file leaf-file-name="Makefile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Makefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+            <state relative-caret-position="266">
+              <caret line="100" column="6" lean-forward="false" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -399,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496027348218</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updating cv python file with pdf custom plugin">
+      <created>1496027726397</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1496027726397</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,22 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker_run.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="59" lean-forward="false" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/develop_server.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-32">
@@ -574,14 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -590,10 +573,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker_run.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="59" lean-forward="false" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+        <state relative-caret-position="266">
+          <caret line="100" column="6" lean-forward="false" selection-start-line="100" selection-start-column="6" selection-end-line="100" selection-end-column="6" />
           <folding />
         </state>
       </provider>
