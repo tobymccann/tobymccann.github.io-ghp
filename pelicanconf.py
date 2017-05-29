@@ -14,6 +14,11 @@ TIMEZONE = 'US/Central'
 DEFAULT_LANG = 'en'
 # Extract a post's date from the filename:
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
+STATIC_PATHS = ['images', 'pdf', 'widgets', 'extra']
+EXTRA_PATH_METADATA = {
+    'images/favicon.png': {'path': 'favicon.png'},
+    'extra/CNAME': {'path': 'CNAME'},
+}
 
 PLUGIN_PATHS = ['pelican-plugins', 'plugins']
 # Pelican plugins:
@@ -38,6 +43,9 @@ LINKS = (('github', 'https://tobymccann.github.com/'),)
 # Social widget
 SOCIAL = (('twitter', '@tobymccann'),
           ('instagram', '@tobymccann'),)
+
+TWITTER_USERNAME = 'tobymccann'
+GITHUB_USERNAME = 'tobymccann'
 
 DEFAULT_PAGINATION = 10
 
