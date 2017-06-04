@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd96bbbc-f3cc-415b-aeaf-a55f4e2a2633" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newpost.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dictionaries/jkennemer.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/tobymccann.github.io-ghp.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/pelican-docker-ghp.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/archives.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/author/jason-kennemer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/authors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/categories.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/category/tutorial.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/all.atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/feeds/tutorial.atom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/docker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/pelican.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/publishing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tag/tutorial.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/tags.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/using-pelican-docker-github-pages.html" afterPath="" />
+    <list default="true" id="cd96bbbc-f3cc-415b-aeaf-a55f4e2a2633" name="Default" comment="newpost script to create posts using datetime format.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/2017-06-04-1623.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2017-06-04-1623.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2017-06-04-1623.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/2017-06-04-1623.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -77,6 +56,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/output/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-701">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -207,6 +196,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tobymccann.github.io-ghp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tobymccann.github.io-ghp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="output" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -647,7 +650,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496559695101</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="newpost script to create posts using datetime format.">
+      <created>1496593766497</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1496593766497</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -695,7 +705,8 @@
     <MESSAGE value="travis after_success update." />
     <MESSAGE value="realizing custom after_success would not run the make github, I moved the make github to the scripts section" />
     <MESSAGE value="tabs in the Makefile" />
-    <option name="LAST_COMMIT_MESSAGE" value="tabs in the Makefile" />
+    <MESSAGE value="newpost script to create posts using datetime format." />
+    <option name="LAST_COMMIT_MESSAGE" value="newpost script to create posts using datetime format." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -945,6 +956,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-701">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
