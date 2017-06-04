@@ -8,8 +8,8 @@ RUN sed -i 's/# \(.*multiverse$\)/\1/g' /etc/apt/sources.list \
   && apt-get install \
   make \
   git -y \
-  && pip install pelican Markdown typogrify ghp-import \
-  && pip install --upgrade pelican Markdown typogrify ghp-import
+  && pip install pelican Markdown typogrify ghp-import BeautifulSoup4 \
+  && pip install --upgrade pelican Markdown typogrify ghp-import BeautifulSoup4
 
 RUN git clone https://github.com/getpelican/pelican-plugins /site/
 
