@@ -7,7 +7,7 @@ RUN sed -i 's/# \(.*multiverse$\)/\1/g' /etc/apt/sources.list \
   && apt-get -y upgrade \
   && apt-get install \
   make \
-  git \
+  git -y \
   && pip install pelican Markdown typogrify ghp-import \
   && pip install --upgrade pelican Markdown typogrify ghp-import
 
