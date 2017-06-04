@@ -28,7 +28,18 @@ PLUGINS = [  # These plugins are part of the official `pelican-plugins` repo:
            'render_math',
            'summary',
            'neighbors',
+           'pelican-bootstrapify'
            ]
+
+BOOTSTRAPIFY = {
+    'table': ['table', 'table-striped', 'table-hover'],
+    'img': ['img-fluid'],
+    'blockquote': ['blockquote'],
+}
+
+PYGMENTS_STYLE = 'monokai'
+
+HIDE_AUTHORS = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -38,7 +49,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('github', 'https://tobymccann.github.com/'),)
+LINKS = (('github', 'https://github.com/tobymccann'),)
 
 # Social widget
 SOCIAL = (('twitter', '@tobymccann'),
@@ -48,6 +59,8 @@ TWITTER_USERNAME = 'tobymccann'
 GITHUB_USERNAME = 'tobymccann'
 
 DEFAULT_PAGINATION = 10
+
+GOOGLE_ANALYTICS = "UA-60159990-3"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
