@@ -11,7 +11,8 @@ install:
   - pip install ghp-import
   - git clone https://github.com/getpelican/pelican-plugins
 script:
-  - make publish github
+  - make publish
+  - make github
 notifications:
   email:
     on_success: always
