@@ -13,7 +13,9 @@ TIMEZONE = 'US/Central'
 
 DEFAULT_LANG = 'en'
 # Extract a post's date from the filename:
-FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
+#FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
+PAGE_URL = 'pages/{slug}.html'
+PAGE_SAVE_AS = 'pages/{slug}.html'
 STATIC_PATHS = ['images', 'widgets', 'extra']
 EXTRA_PATH_METADATA = {
     'images/favicon.png': {'path': 'favicon.png'},

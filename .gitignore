@@ -102,3 +102,4 @@ ENV/
 .mypy_cache/
 Would skip repository pelican-plugins/
 output/
+.DS_Store
