@@ -18,8 +18,8 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="195">
+              <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -503,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496555408322</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="travis after_success update.">
+      <created>1496555711727</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1496555711727</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -549,7 +556,8 @@
     <MESSAGE value="Removed aboutme.md and parent pages/ directory." />
     <MESSAGE value="blog post update." />
     <MESSAGE value="Makefile update to allow visualization of the puch process" />
-    <option name="LAST_COMMIT_MESSAGE" value="Makefile update to allow visualization of the puch process" />
+    <MESSAGE value="travis after_success update." />
+    <option name="LAST_COMMIT_MESSAGE" value="travis after_success update." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -787,8 +795,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" lean-forward="false" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="195">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding />
         </state>
       </provider>
