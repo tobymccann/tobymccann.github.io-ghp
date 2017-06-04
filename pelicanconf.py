@@ -14,7 +14,7 @@ TIMEZONE = 'US/Central'
 DEFAULT_LANG = 'en'
 # Extract a post's date from the filename:
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
-STATIC_PATHS = ['images', 'pdf', 'widgets', 'extra']
+STATIC_PATHS = ['images', 'widgets', 'extra']
 EXTRA_PATH_METADATA = {
     'images/favicon.png': {'path': 'favicon.png'},
     'extra/CNAME': {'path': 'CNAME'},
@@ -26,8 +26,6 @@ PLUGINS = [  # These plugins are part of the official `pelican-plugins` repo:
            'render_math',
            'summary',
            'neighbors',
-           # This one is a custom plugin:
-           'pdf',
            ]
 
 # Feed generation is usually not desired when developing
