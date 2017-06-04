@@ -2,108 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd96bbbc-f3cc-415b-aeaf-a55f4e2a2633" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/pelican-alchemy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/jkennemer.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/tobymccann.github.io-ghp.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/pelican-docker-ghp.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/develop_server.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docker_run.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fabfile.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pelicanconf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publish.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/publishconf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/post.j2" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/font-awesome.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/algol.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/algol.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/algol_nu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/algol_nu.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/autumn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/autumn.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/borland.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/borland.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/bw.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/bw.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/colorful.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/colorful.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/default.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/default.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/emacs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/emacs.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/friendly.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/friendly.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/fruity.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/fruity.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/igor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/igor.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/lovelace.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/lovelace.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/manni.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/manni.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/monokai.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/monokai.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/murphy.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/murphy.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/native.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/native.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/paraiso-dark.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/paraiso-dark.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/paraiso-light.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/paraiso-light.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/pastie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/pastie.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/perldoc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/perldoc.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/rrt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/rrt.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/tango.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/tango.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/trac.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/trac.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/vim.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/vim.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/vs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/vs.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/xcode.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/pygments/xcode.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/theme/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/content/extra/CNAME" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/archives.html" afterPath="$PROJECT_DIR$/output/archives.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/author/jason-kennemer.html" afterPath="$PROJECT_DIR$/output/author/jason-kennemer.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/authors.html" afterPath="$PROJECT_DIR$/output/authors.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/categories.html" afterPath="$PROJECT_DIR$/output/categories.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/category/tutorial.html" afterPath="$PROJECT_DIR$/output/category/tutorial.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feeds/all.atom.xml" afterPath="$PROJECT_DIR$/output/feeds/all.atom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/feeds/tutorial.atom.xml" afterPath="$PROJECT_DIR$/output/feeds/tutorial.atom.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/favicon.ico" afterPath="$PROJECT_DIR$/content/images/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/output/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tag/docker.html" afterPath="$PROJECT_DIR$/output/tag/docker.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tag/pelican.html" afterPath="$PROJECT_DIR$/output/tag/pelican.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tag/publishing.html" afterPath="$PROJECT_DIR$/output/tag/publishing.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tag/tutorial.html" afterPath="$PROJECT_DIR$/output/tag/tutorial.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/tags.html" afterPath="$PROJECT_DIR$/output/tags.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/using-pelican-docker-github-pages.html" afterPath="$PROJECT_DIR$/output/using-pelican-docker-github-pages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Makefile" afterPath="$PROJECT_DIR$/Makefile" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -642,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1496559133438</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="tabs in the Makefile">
+      <created>1496559492412</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1496559492412</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">

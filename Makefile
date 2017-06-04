@@ -25,7 +25,7 @@ CLOUDFILES_CONTAINER=my_cloudfiles_container
 
 DROPBOX_DIR=~/Dropbox/Public/
 
-GITHUB_PAGES=tobymccann/tobymccann.github.io.git
+GITHUB_PAGES=tobymccann/tobymccann.github.io
 GITHUB_PAGES_BRANCH=master
 
 DEBUG ?= 0
