@@ -6,4 +6,4 @@
 	url = https://github.com/ingwinlu/pelican-bootstrapify
 [submodule "pelican-plugins"]
     path = "plugins"
-    url =https://github.com/getpelican/pelican-plugins
+    url = https://github.com/getpelican/pelican-plugins
